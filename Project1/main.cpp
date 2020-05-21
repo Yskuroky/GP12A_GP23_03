@@ -2,7 +2,8 @@
 
 int main(void)
 {
-	printf("�ƥ��ȤǤ���");
+	printf("server wrrite");
+	printf("¥Æ¥¹¥È¤Ç¤¹¤è");
 
 	return 0;
 }
